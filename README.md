@@ -1,2 +1,5 @@
-# code_python_official_tutorial
-Going through the Official Tutorial.  (ver: 3.6)
+### Info
+
+| Link | Finished | 
+| ---- | ---- | ---- | 
+| [The Python Tutorial ](https://docs.python.org/3.6/tutorial/index.html) | YES | 
